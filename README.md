@@ -5,7 +5,7 @@ Experience daily inspiration with our Random Quote Generator! This HTML, CSS, an
 
 Check it out on GitHub: 
 
- 
+ https://niranjansah87.github.io/Quote-Generator/
 
 
 Brighten your day, one quote at a time! ✨📜
